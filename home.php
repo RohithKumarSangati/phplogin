@@ -4,6 +4,6 @@
     echo "Hello ". $_SESSION['name'] . "!<br>";
     echo "Welcome to home page......<br>"
 ?>
-<a href='logout.php'>logout</a>
-<br>
 <a href='profile.php'>Profile</a>
+<br>
+<a href='logout.php'>Logout</a>
